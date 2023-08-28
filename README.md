@@ -24,6 +24,7 @@ The bars represent sales per month and the line represent profit per month
 #### Map
 The map visual provides the top 10 countries based on sales
 
+
 ## Orders
 This page provides an overall view on  orders .
 
@@ -42,8 +43,50 @@ The table consists of columns Sub-category,Order count,Quantity and Sales.it con
 #### Map
 The map visual provides the top 10 countries based on Order count
 
+## Customers
+This page provides an overall view on  orders .
+
+![customers](https://github.com/Srilekshmi-A/Power_bi_GlobalSuperStore/assets/138193879/3fe0ae44-f2f8-4538-a5a9-5eb7dfb15898)
 
 
+#### Slicers 
+Slicers are provided in this page based on Year, Region, Market and Country.
+#### Cards
+Cards provides with an easiest way of representing a single aggregate value. Here cards based on Sales and Customer Count is provided.
+#### Line and Stacked Column Chart
+Customer count per each quarter and each year is represented using bars.
+The line represents Product count  per each quarter and each year.
+#### Table
+This page consists of two tables.
+Top 10 customers based on sales- This table consists of two columns Customer name and sales
+Top 5 customers based on order count- This table consisits of two columns Customer name and order counts
+#### Map
+The map visual provides the top 10 countries based on Customer count
+
+
+## Overview
+This page provides an overall view on  sales.
+
+![products](https://github.com/Srilekshmi-A/Power_bi_GlobalSuperStore/assets/138193879/0f103b4e-dbe1-40b5-bfbb-68a7accdad8d)
+
+#### Slicers 
+Slicers are provided in this page based on Year, Region, Market and Country.
+#### Cards
+Cards provides with an easiest way of representing a single aggregate value. Here cards based on Sales,Product count and Total units sold is provided.
+#### Pie Chart
+Sales by Category is represented as a Pie chart .The three types of categories(office supplies,technology and Furniture) and their percentage and numbers based on Sales are displayed.
+#### Clustered Bar Chart
+This page consists of two clusterd bar charts.
+(1) Sales by top 5 cities: This provides insights on top 5 cities with highest Sales
+(2) Sales by top 5 States: This provides insights on top 5 States with highest Sales
+#### Table
+
+Top 10 sold products with two columns Product name and Product count
+#### Line and Stacked Column Chart
+Sales and profit per each month is represented using column chart.
+The bars represent sales per month and the line represent profit per month
+#### Map
+The map visual provides the top 10 countries based on sales
 
 
 
