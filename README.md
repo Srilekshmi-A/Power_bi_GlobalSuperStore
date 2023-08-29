@@ -4,13 +4,18 @@ on the performance based on sales and other aspects.
 The dashboard consists of four pages : Overview, Orders ,  Customers & Products. It helps the stakeholders to analyse the performance based on various  aspects.
 
 Filters based on Year,Region ,Market and Country are also provided in each one of the pages.
+### Steps in creating a dashboard.
 1)Importing excel file into Power Bi.
-2)Using Power Query Editor basic data cleaning is done.It involves removing duplicate rows and columns,changing datatypes,replacing null values etc..
-3)Establishing relations between each tables.
-4)Creating Measures.
-5)Creating and Customizing the dashboard with necessary details.
 
-## Overview
+2)Using Power Query Editor basic data cleaning is done.It involves removing duplicate rows and columns,changing datatypes,replacing null values etc..
+
+3)Establishing relations between each tables.
+
+4)Creating Measures.
+
+5)Creating and Customizing the dashboard with necessary details.
+## Pages in Dashboard
+### Overview
 This page provides an overall view on  sales.
 
 ![overview](https://github.com/Srilekshmi-A/Power_bi_GlobalSuperStore/assets/138193879/e0a4dfa6-66f6-4772-b006-7c1dda72c9a6)
@@ -31,7 +36,7 @@ The bars represent sales per month and the line represent profit per month.
 The map visual provides the top 10 countries based on sales.
 
 
-## Orders
+### Orders
 This page provides an overall view on  orders .
 
 ![orders](https://github.com/Srilekshmi-A/Power_bi_GlobalSuperStore/assets/138193879/bc3a2bcf-3481-43e7-9f4b-b488ef6791d3)
@@ -49,7 +54,7 @@ The table consists of Top 10 sub categories based on order count with columns Su
 #### Map
 The map visual provides the top 10 countries based on Order count.
 
-## Customers
+### Customers
 This page provides an overall view on  customers .
 
 ![customers](https://github.com/Srilekshmi-A/Power_bi_GlobalSuperStore/assets/138193879/3fe0ae44-f2f8-4538-a5a9-5eb7dfb15898)
@@ -71,7 +76,7 @@ Top 5 customers based on order count- This table consisits of two columns Custom
 The map visual provides the top 10 countries based on Customer count
 
 
-## Products
+### Products
 This page provides an overall view on  products.
 
 ![products](https://github.com/Srilekshmi-A/Power_bi_GlobalSuperStore/assets/138193879/0f103b4e-dbe1-40b5-bfbb-68a7accdad8d)
