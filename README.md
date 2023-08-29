@@ -78,8 +78,9 @@ The map visual provides the top 10 countries based on Customer count
 
 ### Products
 This page provides an overall view on  products.
+![Productss](https://github.com/Srilekshmi-A/Power_bi_GlobalSuperStore/assets/138193879/f1a9df75-4e59-40bc-9c39-4a8ec93ec0e3)
 
-![products](https://github.com/Srilekshmi-A/Power_bi_GlobalSuperStore/assets/138193879/0f103b4e-dbe1-40b5-bfbb-68a7accdad8d)
+
 
 #### Slicers 
 Slicers are provided in this page based on Year, Region, Market and Country.
